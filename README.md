@@ -16,8 +16,8 @@ _ROS Server_ requires [Node.js](https://nodejs.org/) v16.13+ to run.
 Clone the repository and install the dependencies
 
 ```sh
-git clone https://github.com/Karn-P/ros-server.git
-cd ros-server
+git clone https://github.com/Karn-P/ros_server.git
+cd ros_server
 npm install
 ```
 
